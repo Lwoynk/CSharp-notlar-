@@ -1,0 +1,8 @@
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\bin\Debug\on-ekim-22.exe.config
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\bin\Debug\on-ekim-22.exe
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\bin\Debug\on-ekim-22.pdb
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\obj\Debug\on-ekim-22.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\obj\Debug\on-ekim-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\obj\Debug\on-ekim-22.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\obj\Debug\on-ekim-22.exe
+C:\Users\Barış\Desktop\1.proje\on-ekim-22\on-ekim-22\obj\Debug\on-ekim-22.pdb

@@ -1,0 +1,15 @@
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\bin\Debug\net6.0\sekiz-kasım-2022.exe
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\bin\Debug\net6.0\sekiz-kasım-2022.deps.json
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\bin\Debug\net6.0\sekiz-kasım-2022.runtimeconfig.json
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\bin\Debug\net6.0\sekiz-kasım-2022.dll
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\bin\Debug\net6.0\sekiz-kasım-2022.pdb
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.AssemblyInfo.cs
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.dll
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\refint\sekiz-kasım-2022.dll
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.pdb
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\sekiz-kasım-2022.genruntimeconfig.cache
+C:\Users\Barış\Desktop\Yazılım\okul\sekiz-kasım-2022\sekiz-kasım-2022\obj\Debug\net6.0\ref\sekiz-kasım-2022.dll
