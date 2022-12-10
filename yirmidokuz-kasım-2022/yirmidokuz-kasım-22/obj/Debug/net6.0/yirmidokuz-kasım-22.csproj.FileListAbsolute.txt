@@ -1,0 +1,15 @@
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\bin\Debug\net6.0\yirmidokuz-kasım-22.exe
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\bin\Debug\net6.0\yirmidokuz-kasım-22.deps.json
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\bin\Debug\net6.0\yirmidokuz-kasım-22.runtimeconfig.json
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\bin\Debug\net6.0\yirmidokuz-kasım-22.dll
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\bin\Debug\net6.0\yirmidokuz-kasım-22.pdb
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.csproj.AssemblyReference.cache
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.AssemblyInfoInputs.cache
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.AssemblyInfo.cs
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.dll
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\refint\yirmidokuz-kasım-22.dll
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.pdb
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\yirmidokuz-kasım-22.genruntimeconfig.cache
+C:\Users\Barış\Desktop\Yazılım\okulda labda yapılanlar\yirmidokuz-kasım-2022\yirmidokuz-kasım-22\obj\Debug\net6.0\ref\yirmidokuz-kasım-22.dll
